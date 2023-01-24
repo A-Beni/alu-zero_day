@@ -1,2 +1,6 @@
 #!/bin/bas
+<<<<<<< HEAD
 echo "This School is so cool" 
+=======
+echo "This school is so cool!" 
+>>>>>>> master

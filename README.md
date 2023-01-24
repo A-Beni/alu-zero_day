@@ -1,1 +1,1 @@
-My first readme
+ you must study hard ... you pervert 
